@@ -10,7 +10,7 @@ Participants complete at least 3 tasks (2-week track) or 4 tasks (1-month track)
 |---|------|-------|--------|--------|
 | 1 | Sales Performance Dashboard Using Excel | 1 | ✅ Done | [Task1-Sales-Performance-Dashboard](./Task1-Sales-Performance-Dashboard) |
 | 2 | Exploratory Data Analysis on Titanic Dataset | 1 | ✅ Done | [Task2-Titanic-EDA](./Task2-Titanic-EDA) |
-| 3 | Customer Segmentation Using RFM Analysis | 2 | ✅ Done | [Task3-RFM-Customer-Segmentation](./Task3-RFM-Customer-Segmentation (1)  |
+| 3 | Customer Segmentation Using RFM Analysis | 2 | ✅ Done | [Task3-RFM-Customer-Segmentation](./Elevvo-Data-Analytics-Internship/Task3-RFM-Customer-Segmentation%20(1)/Task3-RFM-Customer-Segmentation) |
 | 4 | Data Cleaning and Insight Generation from Survey Data | 2 | ⬜ Not started | — |
 | 5 | SQL-Based Analysis of Product Sales | 2 | ⬜ Not started | — |
 
